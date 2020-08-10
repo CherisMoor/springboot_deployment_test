@@ -1,4 +1,4 @@
-package com.win.practicingherokudeployment;
+package com.win.practicingherokudeployment.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
